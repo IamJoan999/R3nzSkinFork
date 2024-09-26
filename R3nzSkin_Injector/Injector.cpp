@@ -1,12 +1,4 @@
 #include <Windows.h>
-#include <cstdlib>
-#include <fstream>
-#include <psapi.h>
-#include <string>
-#include <thread>
-#include <tlhelp32.h>
-#include <regex>
-#include <msclr/marshal_cppstd.h>
 
 #include "Injector.hpp"
 #include "R3nzUI.hpp"
